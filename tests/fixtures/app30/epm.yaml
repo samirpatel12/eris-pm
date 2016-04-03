@@ -15,7 +15,7 @@ jobs:
 - name: deployGSABIFactory
   job:
     deploy:
-      contract: GSFactory.sol
+      contract: GlenShieldsFactory.sol
       instance: GSContract
       wait: true
 
