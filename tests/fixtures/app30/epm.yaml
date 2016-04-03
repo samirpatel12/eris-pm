@@ -8,7 +8,7 @@ jobs:
 - name: deployGSFactory
   job:
     deploy:
-      contract: GSFactory.sol
+      contract: GlenShieldsFactory.sol
       instance: GSFactory
       wait: true
 
